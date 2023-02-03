@@ -2,10 +2,10 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-大陆寻奇 | 台湾 |   |
+daluxunqi | taiwan |   |
 https://www.youtube.com/watch?v=pLxy7SRblyw
 
-GSTV幸福空间 | 台湾 |  |
+GSTV | taiwan |  |
 https://www.youtube.com/watch?v=BrixzUcC_hY
 
 Ibiza Summer Mix 2021 | Music | |
