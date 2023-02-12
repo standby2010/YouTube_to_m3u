@@ -1,73 +1,56 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-daluxunqi | taiwan |   |
-https://www.youtube.com/watch?v=pLxy7SRblyw
-
-GSTV | taiwan |  |
-https://www.youtube.com/watch?v=BrixzUcC_hY
-
-Ibiza Summer Mix 2021 | Music | |
-https://www.youtube.com/watch?v=GnYNHbq24H0
-
-Онлайн трансляция телеканала МУЗ-ТВ | Music | |
-https://www.youtube.com/watch?v=v3yB_oSH10c
-
-Kral TV | Music | |
-https://www.youtube.com/watch?v=88tf0H1ycDU
-
-Kral Pop TV | Music | |
-https://www.youtube.com/watch?v=dEHMR7Qpthw
-
-QT Relax Music | Music | |
-https://www.youtube.com/watch?v=da8MqCnF1mQ
-
-4K Nature 24/7- LoungeV Films | Music | |
-https://www.youtube.com/watch?v=2CD9aEjFZwU
-
-The World Live- earthTV | Entertainment | |
-https://www.youtube.com/watch?v=BW6yxWvqEd0
-
-PJ Masks | Kids | |
-https://www.youtube.com/watch?v=6E-BS0wpPQk
-
-My Little Pony | Kids | |
-https://www.youtube.com/watch?v=6Vh5dg6eCnY
-
-Cocomelon-Nursery Rhymes | Kids | |
-https://www.youtube.com/watch?v=Qt3oQSSZv-o
-
-Ben and Holly's Little Kingdom | Kids | |
-https://www.youtube.com/watch?v=q1Fsyb9Kj7E
-
-WB Kids | Kids | |
-https://www.youtube.com/watch?v=braVWtZNnsc
-
-Disney Junior- All of Minnie's Bow-Toons! | Kids | |
-https://www.youtube.com/watch?v=h99SrJB7F5M
-
-TVBS News | Taiwan News | |
+TVBS鏂伴椈 | Youtube | http://192.168.1.153/epgico/TVBS鏂伴椈.png | 6073
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-Taiwan TTV News | Taiwan News | |
+鍙拌鏂伴椈 | Youtube | http://192.168.1.153/epgico/鍙拌鏂伴椈.png"| 6143
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-SET Live News | Taiwan News | |
-https://www.youtube.com/watch?v=pJ0VgJloR9E
+涓夌珛鏂伴椈 | Youtube | http://192.168.1.153/epgico/SETInews.png | 6073
+https://youtu.be/FoBfXvlOR6I
 
-Taiwan CTV News | Taiwan News | |
-https://www.youtube.com/watch?v=NHTD_g1LYOM
+涓夌珛鏂伴椈+| Youtube | http://192.168.1.153/epgico/SETInews.png | 6108
+https://www.youtube.com/watch?v=jlldIiGA5bU
 
-Taiwan Formosa Live News | Taiwan News | |
-https://www.youtube.com/watch?v=XxJKnDLYZz4
+涓夌珛LIVE| Youtube | http://192.168.1.153/epgico/SETInews.png | 6073
+https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-Taiwan EBC | Taiwan News | |
+涓鏂伴椈 | Youtube | http://192.168.1.153/epgico/涓鏂伴椈.png | 7176
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+姘戣鏂伴椈 | Youtube | http://192.168.1.153/epgico/FTVNews.png | 6071
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+涓滄．鏂伴椈 | Youtube | http://192.168.1.153/epgico/EBCNews.png | 6069
 https://www.youtube.com/watch?v=R2iMq5LKXco
 
-Taiwan EBC Financial | Taiwan News | |
-https://www.youtube.com/watch?v=ABn_ccXn_jc
+涓滄．璐㈢粡鏂伴椈 | Youtube | http://192.168.1.153/epgico/EBCFinancialNews.png | 6075
+https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-CTITV Taiwan News | Taiwan News | |
-https://www.youtube.com/watch?v=lu_BJKxqGnk
+涓ぉ鏂伴椈 | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://youtu.be/_QbRXRnHMVY
 
+涓ぉ鏂伴椈2鍙� | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+銆婂ぇ闄嗗濂囥€婰ive | Youtube | http://192.168.1.153/epgico/涓.png | 6028
+https://www.youtube.com/watch?v=pLxy7SRblyw
+
+鍑ゅ嚢璧勮 | Youtube | http://192.168.1.153/epgico/鍑ゅ嚢璧勮鍙� | 142
+https://www.youtube.com/watch?v=dmDg7NfUoSw
+
+鏂板攼浜轰簹澶� | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://www.youtube.com/watch?v=WIhgU_mc05A
+
+銆奙IT鍙扮仯瑾屻€婰ive | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://www.youtube.com/watch?v=M2NRWZOZ8Ww
+
+涓HD | Youtube | http://192.168.1.153/epgico/鍑ゅ嚢璧勮鍙� | 6028
+https://www.youtube.com/watch?v=ADDSmXoPDY8
+
+闀滄柊闂� | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+鍗庤鏂伴椈 | Youtube | http://192.168.1.153/epgico/TVBS%E6%96%B0%E9%97%BB.png | 6073
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
